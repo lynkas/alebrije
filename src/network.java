@@ -5,7 +5,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class network {
-    private static final String link = "https://api.telegram.org/bot6666666666666666666666666666666666666666666";
+    private static final String link = "https://api.telegram.org/bot66666666666666666666666666666666666666666666";
     private static final String sendMessage = "/sendMessage?";
     private static final String getUpdates = "/getUpdates?";
     private static final String offset = "offset=";
